@@ -18,6 +18,9 @@ public class MansProjekts {
         System.out.println("Hello world");
         
         System.out.println("Hello Pasaule");
+        
+          System.out.println("Hello Pasaule");
+          System.out.println("Hello Pasaule");
     }
     
 }
